@@ -1,7 +1,5 @@
 # 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&text=Neel%20Parekh&fontAlign=50&fontAlignY=38&desc=Machine%20Learning%20%7C%20LLM%20Applications%20%7C%20Data%20Products&descAlign=50&descAlignY=68&color=0:020b07,25:052e1a,55:0b3d2e,80:14532d,100:2d6a4f&fontColor=f8fafc" alt="Header" />
-</div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1200&color=CFE7D5&center=true&vCenter=true&width=860&lines=ML+systems+that+look+good+and+ship;LLM+apps+%7C+RAG+%7C+APIs+%7C+deployment" alt="Typing SVG" />
