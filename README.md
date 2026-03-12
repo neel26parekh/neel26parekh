@@ -1,4 +1,4 @@
-# Github-Config-files-
+# 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=160&text=Neel%20Parekh&fontAlign=50&fontAlignY=38&desc=Machine%20Learning%20%7C%20LLM%20Applications%20%7C%20Data%20Products&descAlign=50&descAlignY=68&color=0:020b07,25:052e1a,55:0b3d2e,80:14532d,100:2d6a4f&fontColor=f8fafc" alt="Header" />
 </div>
